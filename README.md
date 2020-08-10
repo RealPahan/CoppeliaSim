@@ -11,10 +11,10 @@
 Затем открыть сцену walls.ttt в программе CoppeliaSim. 
 Следующий шаг - запуск файла main.py. 
 (Для запуска понадобятся библиотеки: 
-  sys
-  math
-  numpy
-  time
-  random
+  sys,
+  math,
+  numpy,
+  time,
+  random,
   pykalman
 )
